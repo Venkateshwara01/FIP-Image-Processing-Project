@@ -135,7 +135,7 @@ Venkateshwara UD
 
 Aman D Silva
 
-Akmar Hussain K
+Nishchith Shetty
 
 ## Academic Project
 
