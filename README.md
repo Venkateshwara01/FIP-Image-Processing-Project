@@ -64,6 +64,12 @@ Huffman Coding is a lossless compression technique that assigns variable-length 
 6. Decode the compressed data.
 7. Verify that the reconstructed image is identical to the original.
 
+### Original Image
+![Output 0](src/codes/outputs/original_image.png)
+
+### Huffman Reconstructed Image
+![Output ](src/codes/outputs/huffman_reconstructed.png)
+
 ### Results
 
 | Metric              |        Value |
@@ -110,6 +116,14 @@ The Laplacian operator uses the second derivative to identify rapid intensity ch
 | Maximum Pixel Difference |     56 |
 
 The Sobel and Prewitt outputs are visually similar, but small pixel-level differences exist.
+
+## Image Processing Results
+
+### Edge Detection Comparison Output Images
+![Output 1](src/codes/outputs/edge_detection_comparison.png)
+
+### Huffman Compression Result Graph
+![Output 2](src/codes/outputs/combined_graphs.png)
 
 ## Project Outcomes
 
